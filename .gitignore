@@ -1,0 +1,7 @@
+node_modules/*
+.vscode/*
+.editorconfig
+npm-debug.lo*
+console.log*
+src/app/**/*.js
+src/app/**/*.map
